@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BenX3off
+- 👀 I’m interested in reverse engineering and software development
+- 🌱 I’m currently learning Java (but hoping to learn HTML)
